@@ -1,0 +1,27 @@
+body{
+      background-image: url(Screenshot.png);
+      background-attachment: fixed;
+      background-size: 100%;
+      background-position:right top;
+       background-color: #7080ff;
+     background-repeat: repeat-x;
+     background: scroll;
+     border-style: dashed;
+     border-color: #7080ff;
+     
+
+   }
+      .mood{
+         color:#19b6ff;
+         background-color: rgb(140, 0, 255);
+          font-size: 70px;
+           text-align: center;
+           border-style: dashed;
+           border-color: #7080ff;
+      }
+      .gel{
+         color:white;
+        
+          font-size:100px ;
+           text-align: justify; 
+      }
